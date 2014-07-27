@@ -18,12 +18,17 @@ Worked Projects:
  - 小学英语语音打分app 后台服务
  - 电商搭配app：天气美搭
 
-Sharing Slides: 
+Sharing Tech Slides in Team: 
 
- - [acceptance test][8]
- - [loopback.io intro][9]
+ - [Acceptance test][8]
+ - [Loopback.io intro][9]
  - [Sencha Touch intro][10]
  - [Mongodb Monitoring Service][11]
+ - Golang intro
+ - Security Status in our system
+ - Jsconf 2014 intro
+ - Thenjs
+ - Grunt for backend
 
 
   [1]: http://www.cnblogs.com/no7dw
