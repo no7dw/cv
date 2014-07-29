@@ -1,12 +1,11 @@
-
-------
-
 ## no7dw CV
 
 Blog: [cnblogs.com/no7dw][1]
 Github: [no7dw][2]
 Stackoverflow: [no7dw][3]
+
 Program Language: Node.JS,C++,Golang,Python
+
  - Node.JS knowledge range including [these projects][4]
  - C++ knowledge range including [these projects][5]
  - Golange [projects][6]
