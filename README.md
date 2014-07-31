@@ -25,6 +25,10 @@ Sharing Tech Slides in Team:
  - Jsconf 2014 intro
  - Thenjs
  - Grunt for backend
+ - Backend development intro
+ - Design Pattern in Javascript
+ - OKR intro
+ - GTD intro
 
 Worked Projects:
  - 电商app：潮百搭app 后台 
