@@ -1,25 +1,26 @@
 ## no7dw CV
 
-Blog: [cnblogs.com/no7dw][1]
-Github: [no7dw][2]
-Stackoverflow: [no7dw][3]
+Social:
+ - Blog: [cnblogs.com/no7dw][1]
+ - Github: [no7dw][2]
+ - Stackoverflow: [no7dw][3]
 
 Program Language: Node.JS,C++,Golang,Python
 
  - Node.JS knowledge range including [these projects][4]
- - C++ knowledge range including [these projects][5]
- - Golange [projects][6]
- - Python knowledge range including [these projects][7]
+ - C++ knowledge range including [these projects][5] [bt management service][6]
+ - Golange [projects][7]
+ - Python knowledge range including [these projects][8]
 
 Node_Modules:
 
- - [lianlianpay][8]
+ - [lianlianpay][9]
 
 Sharing Tech Slides in Team: 
- - [Acceptance test][9]
- - [Loopback.io intro][10]
- - [Sencha Touch intro][11]
- - [Mongodb Monitoring Service][12]
+ - [Acceptance test][10]
+ - [Loopback.io intro][11]
+ - [Sencha Touch intro][12]
+ - [Mongodb Monitoring Service][13]
  - Golang intro
  - Security Status in our system
  - Jsconf 2014 intro
@@ -42,10 +43,11 @@ Worked Projects:
   [3]: http://stackoverflow.com/users/2412549/no7dw?tab=profile
   [4]: https://github.com/no7dw/lianlianpay
   [5]: https://github.com/no7dw/cplusplus-learning
-  [6]: https://github.com/no7dw/go-practice
-  [7]: https://github.com/no7dw/python-learning
-  [8]: https://www.npmjs.com/package/lianlianpay
-  [9]: https://github.com/no7dw/acceptance-test-slide
-  [10]: https://github.com/no7dw/loopback.io-slide
-  [11]: https://github.com/no7dw/SenchaTouch-slide
-  [12]: https://github.com/no7dw/mms-slide
+  [6]: https://github.com/no7dw/btpd
+  [7]: https://github.com/no7dw/go-practice
+  [8]: https://github.com/no7dw/python-learning
+  [9]: https://www.npmjs.com/package/lianlianpay
+  [10]: https://github.com/no7dw/acceptance-test-slide
+  [11]: https://github.com/no7dw/loopback.io-slide
+  [12]: https://github.com/no7dw/SenchaTouch-slide
+  [13]: https://github.com/no7dw/mms-slide
