@@ -10,7 +10,7 @@ Program Language: Node.JS,C++,Golang,Python
  - Node.JS knowledge range including [these projects][4]
  - C++ knowledge range including [these projects][5] ,[bt management service][6]
  - Golange [projects][7]
- - Python knowledge range including [these projects][8] [a site crawler][9]
+ - Python knowledge range including [these projects][8] , [a site crawler][9]
 
 Node_Modules:
 
