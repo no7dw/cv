@@ -30,6 +30,7 @@ Sharing Tech Slides in Team:
  - Design Pattern in Javascript
  - OKR intro
  - GTD intro
+ - Jenkins intro: Continues Intergration System
 
 Worked Projects:
  - 电商app：潮百搭app 后台 
