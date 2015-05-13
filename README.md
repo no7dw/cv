@@ -24,7 +24,7 @@ Sharing Tech Slides in Team:
  - [Sencha Touch intro][13]
  - [Mongodb Monitoring Service][14]
  - Golang intro
- - Security Status in our system
+ - Security Status of our system
  - Jsconf 2014 intro
  - Thenjs
  - Grunt for backend
