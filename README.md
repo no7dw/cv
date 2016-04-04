@@ -1,32 +1,31 @@
 ## no7dw CV
 
-Social:
+###Social:
  - Blog: [cnblogs.com/no7dw][1] [www.deng.io][2]
  - Github: [no7dw][3]
  - Stackoverflow: [no7dw][4]
  - Weibo: @no7dw
  - Mail: no7david#gmail.com
 
-Program Language: Node.JS > C++ > Shell/Python/Golang/Java/VB/C#
+###Program Language: Node.JS > C++ > Shell/Python/Golang/Java/VB/C#
 
  - Node.JS knowledge range including [these projects][5]
  - C++ knowledge range including [these projects][6] ,[bt management service][7]
  - Golange [projects][8]
  - Python knowledge range including [these projects][9] , [a site crawler][10]
 
-注：知识范围见上述项目，但不仅仅限于上述项
+注：知识范围见上述项目，但不仅仅限于上述项，更详细见上述两个博客
  
-Node_Modules:
+###Node_Modules:
 
  - [lianlianpay][11]
  - [asset_cal][12]
 
-Pull Request:
+###Pull Request:
 
  - [sails-mongo][13]
  
-
-Sharing Tech Slides in Team: 
+###Sharing Tech Slides in Team: 
  - [Acceptance test][14]
  - [Loopback.io intro][15]
  - [Sencha Touch intro][16]
@@ -47,7 +46,7 @@ Sharing Tech Slides in Team:
 
 注：以上link非及时更新
 
-Worked Projects:
+###Worked Projects:
  - 2015 互联网金融－考拉理财：参与架构、后台开发、运营后台、运维
  - 2014 电商app－潮百搭app：负责少量android、后台、运营后台
  - 2013 电商app－天气美搭app：负责后台服务、运营后台
@@ -57,6 +56,11 @@ Worked Projects:
  - 2011 幼儿园、小学教学Linux嵌入式应用，负责应用前后台
  - 2009 英语翻译教学桌面应用
 
+###成绩&奖项
+
+###优点
+
+###缺点
 
   [1]: http://www.cnblogs.com/no7dw
   [2]: www.deng.io
