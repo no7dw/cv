@@ -12,8 +12,9 @@
 ### Program Language: Node.JS,C++ ,Shell > Golang/Java/Python/VB/C#
 
 ### Tech Stack
- Jenkins,Docker,Haproxy,Nginx,Mongodb,Redis,Varnish,RabbitMQ,ELK,Nagios
- Agile with Jira/Trello
+ Jenkins,Docker,Haproxy,Nginx,Mongodb,Redis,Varnish,RabbitMQ,ELK,Nagios,Phonegap
+ 
+ Scrum,Agile with Jira/Trello
 
 
 ### 最近3年项目
@@ -33,6 +34,7 @@
 ### 部分 side Projects：
 [摄影论坛爬虫项目](https://github.com/no7dw/bbs-images-crawler)（2010 年）
 起因：该网站图片展示方式不人性化、学习摄影参数
+
 [敏感内容检测chrome插件]（2016年）(https://github.com/no7dw/anti-snake-chrome-extension)
 起因：自己对某类图片敏感，某度网站偶然出现某类图片，检测内容才安全展示，解救自己。
 
@@ -80,7 +82,7 @@
 
  - [sails-mongo][13]
  
-### Sharing Tech Slides in Team: 
+### 在团队的技术分享: 
  - [Acceptance test][14]
  - [Loopback.io intro][15]
  - [Sencha Touch intro][16]
@@ -104,9 +106,9 @@
 
 
 ### 3年以前项目:
- - 2014 大城小市O2O应用 ,参与项目需求分析,架构选择,设计
- - 2013 技术负责人 线上教育app－阿基米德app（小学教学社区app）,负责app前后台(Java、Nodejs)
- - 2013 线上教育app－英语直升机app,负责英语口语后台打分引擎(Java、C Sphinx引擎)
+ - 2014 某O2O公司CRM、电商系统 ,参与项目需求分析,架构选择,设计
+ - 2013 技术负责人 线上教育app－阿基米德app（小学教学社区app）,负责app前后台(Java、Nodejs、Sencha Touch)
+ - 2013 线上教育app－英语直升机app,负责英语口语后台打分引擎(Java、C Sphinx引擎、Phonegap)
  - 2011 幼儿园,小学英语语音打分教学嵌入式应用，负责应用前后台(C++、Linux)
  - 2009 英语翻译教学桌面应用(VB/C#)
 
