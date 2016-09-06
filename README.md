@@ -17,16 +17,16 @@
  Scrum,Agile with Jira/Trello
 
 
-### 最近3年项目
+### 最近3年主要项目
  - 2015~now 技术负责人 某互联网金融理财产品（p2p基金/二级市场）A轮：
     - 负责架构,参与项目管理,难点解决,后台开发,运维,团队培训
     - 项目运作情况：50万用户,3.6亿资产,10亿交易额
     - 技术团队：15人。主技术栈：Nodejs,Python,Java,Redis,Mongodb
- - 2014 技术负责人 电商app－天气美搭app（根据天气推荐服饰搭配）
+ - 2014 技术负责人 电商－[天气美搭](http://app.mi.com/details?id=com.kalengo.weathermeida)app（根据天气推荐服饰搭配）
     - 负责app后台开发,运营后台
     - 项目运作情况：30万用户
     -  技术团队：8人。主技术栈：Nodejs,Redis,Mongodb
- - 2013 技术负责人 电商app－潮百搭app（女装导购）
+ - 2013 技术负责人 电商－[潮百搭](http://app.mi.com/details?id=com.kalengo.chaobaida&ref=search)app（女装导购）
     - 负责少量android,app后台开发,运营后台 
     - 项目运作情况：100万用户
     - 技术团队：8人。主技术栈：Nodejs,Mongodb
@@ -50,7 +50,7 @@
 
 ### 缺点
  - 性格不属强势，not firmly enough
- - 简短汇报，~~主动汇报~~,细心~~留意下属~~,~~业务关心度不高~~
+ - 简短汇报，~~主动汇报~~,不够细心~~留意下属~~,~~业务关心度不高~~
 
 --- 
 ## 详细
@@ -114,7 +114,7 @@
  - 2014 某O2O公司CRM、电商系统 ,参与项目需求分析,架构选择,设计
  - 2013 技术负责人 线上教育app－阿基米德app（小学教学社区app）,负责app前后台(Java、Nodejs、Sencha Touch)
  - 2013 线上教育app－英语直升机app,负责英语口语后台打分引擎(Java、C Sphinx引擎、Phonegap)
- - 2011 幼儿园,小学英语语音打分教学嵌入式应用，负责应用前后台(C++、Linux)
+ - 2011 幼儿园,小学英语语音打分教学嵌入式应用，负责应用前后台(类Qt应用)、p2p网络传输应用(C++、Linux)
  - 2009 英语翻译教学桌面应用(VB/C#)
 
 ### 公司经历:
