@@ -18,24 +18,24 @@
 
 
 ### 最近3年项目
- - 2015 技术负责人 某互联网金融理财产品（p2p基金/二级市场）A轮：
+ - 2015~now 技术负责人 某互联网金融理财产品（p2p基金/二级市场）A轮：
     - 负责架构,参与项目管理,难点解决,后台开发,运维,团队培训
     - 项目运作情况：50万用户,3.6亿资产,10亿交易额
-    - 技术团队：15人。主技术栈：Nodejs,Python,Java,Mongodb
+    - 技术团队：15人。主技术栈：Nodejs,Python,Java,Redis,Mongodb
  - 2014 技术负责人 电商app－天气美搭app（根据天气推荐服饰搭配）
     - 负责app后台开发,运营后台
     - 项目运作情况：30万用户
-    -  技术团队：8人。主技术栈：Nodejs,Mongodb
+    -  技术团队：8人。主技术栈：Nodejs,Redis,Mongodb
  - 2013 技术负责人 电商app－潮百搭app（女装导购）
     - 负责少量android,app后台开发,运营后台 
     - 项目运作情况：100万用户
     - 技术团队：8人。主技术栈：Nodejs,Mongodb
 
 ### 部分 side Projects：
-[摄影论坛爬虫项目](https://github.com/no7dw/bbs-images-crawler)（2010 年）
+[摄影论坛爬虫项目 - python](https://github.com/no7dw/bbs-images-crawler)（2010 年）
 起因：该网站图片展示方式不人性化、学习摄影参数
 
-[敏感内容检测chrome插件](https://github.com/no7dw/anti-snake-chrome-extension)（2016年）
+[敏感内容检测chrome插件 - javascript](https://github.com/no7dw/anti-snake-chrome-extension)（2016年）
 起因：自己对某类图片敏感，某度网站偶然出现某类图片，检测内容才安全展示，解救自己。
 
 ### 成绩&奖项
@@ -58,14 +58,14 @@
 ### Program Level 程度 & proof：
  - Node.JS [these projects][5]
  - C++  [these projects][6] ,[bt management service][7]
- - Golange [projects][8]
+ - Golang [projects][8]
  - Java [projects](https://github.com/no7dw/javaCourse)
  - Python [these projects][9] , [a site crawler][10]
 
 注：知识范围见上述项目，但不仅仅限于上述项，更详细见上述两个博客
 
 ### Tech Stack 程度 & proof:
- - Docker：私有仓库,Rancher,自build镜像
+ - Docker,Vagrant：私有仓库,Rancher,自build镜像
  - CI: Jenkins：集成,测试,自动部署
  - LB: Haproxy：配置,backup 模式
  - LB: Nginx：配置,proxy
@@ -88,21 +88,24 @@
  - [Loopback.io intro][15]
  - [Sencha Touch intro][16]
  - [Mongodb Monitoring Service][17]
- - Golang intro
- - Security Status of our system
- - Jsconf 2014 intro
+ - [Golang intro](https://docs.google.com/presentation/d/1bQdstLrHHfc9AATmd-fa2UHZaI1rgxH9k04NQzr5Ry4/edit#slide=id.p)
+ - [Jenkins CI & Unit Test](https://docs.google.com/presentation/d/1_VFfaBkQEkAaMzJwGlf_hhGO6qqL7ex_jQdVc4uT6CY/edit#slide=id.p)
+ - [Security Status of our system](https://docs.google.com/presentation/d/1hmg83ArtCseaw_HP1VlLGN2Sn10iy0TabYn5XE36Yw4/edit#slide=id.g5ca66c4c1_010)
+ - [Jsconf 2014 in hangzhou](https://docs.google.com/presentation/d/1afopKqsl6YjwFO15T0mIsRNPt1rbs39zibaQe2XNCb8/edit#slide=id.p)
  - 使用Thenjs 缓解callback hell
- - Grunt for backend
- - Backend development intro
- - Design Pattern in Javascript
+ - [Grunt for backend](https://docs.google.com/presentation/d/1YuxXuR8nDLx3c4FqY3pC27qfIgViuJITd3nHnYuFmFU/edit#slide=id.g902209502_0_0)
+ - [Backend development training](https://docs.google.com/presentation/d/1RRZ1yehGUv3Wh85Z9dctHqsXEYzJ0M7kMDB0uOOA6mU/edit#slide=id.p)
+ - [Design Pattern in Javascript](https://docs.google.com/presentation/d/1tuj5syAmwRkfX25bpLMmHPWFR0wLiBL4dSRhVfuNQtM/edit#slide=id.p)
  - OKR intro
+ - [git workflow](https://docs.google.com/presentation/d/1MtG8Xak3XLnDHkZ_h83_OH-w-_oWmsXXt31rsjdSOMs/edit#slide=id.p)
  - GTD intro
- - Jenkins intro: Continues Intergration System
- - Docker intro
+ - [Docker intro](http://www.deng.io/2016/01/14/docker-common-error/) [101](http://www.deng.io/2016/01/14/docker-command/)
  - Jira Intro
- - Agile Development
- - RabbitMQ
- - Haproxy config detail & log detail
+ - [Agile Development](https://docs.google.com/presentation/d/14kvpRIj8V20BdJBIHLfo7R2YsEVd5rAacpk6x4WOwE4/edit#slide=id.p)
+ - [RabbitMQ intro](https://github.com/no7dw/rabbitmq-demo/) 
+ - [RabbitMQ advance usage](https://github.com/no7dw/rabbitmq-demo/blob/master/advance.md)
+ - [Haproxy config detail & log detail](https://docs.google.com/presentation/d/1iXsMbMgC0ikmZiP0hGnYaWVHIZouArwQ5p9_DJ_Je9U/edit#slide=id.g123cd1a7c3_0_41)
+ - [如何写标准级别的linux shell](http://www.deng.io/2016/05/15/linux-shell-script/)
 
 注：以上link非及时更新
 
