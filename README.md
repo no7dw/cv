@@ -23,11 +23,11 @@
     - 项目运作情况：50万用户,3.6亿资产,10亿交易额
     - 技术团队：15人。主技术栈：Nodejs,Python,Java,Redis,Mongodb
  - 2014 技术负责人 电商－[天气美搭](http://app.mi.com/details?id=com.kalengo.weathermeida)app（根据天气推荐服饰搭配）
-    - 负责app后台开发,运营后台
+    - 负责app后台开发,管理后台
     - 项目运作情况：30万用户
     -  技术团队：8人。主技术栈：Nodejs,Redis,Mongodb
  - 2013 技术负责人 电商－[潮百搭](http://app.mi.com/details?id=com.kalengo.chaobaida&ref=search)app（女装导购）
-    - 负责少量android,app后台开发,运营后台 
+    - 负责少量android,app后台开发,管理后台 
     - 项目运作情况：100万用户
     - 技术团队：8人。主技术栈：Nodejs,Mongodb
 
@@ -44,7 +44,7 @@
  - 科研新人一等奖(2010)
 
 ### 优点
-  - 技术热情，认真，主动学习，主动分享（见下方个人分享列表）， 坚持blog（见[两个](www.deng.io)[blog](www.cnblogs.com/no7dw)）、热爱开源(见[个人github](github.com/no7dw))
+  - 技术热情，认真，主动学习，主动分享（见下方个人分享列表）， 坚持blog（见[两个](http://www.deng.io)[blog](http://www.cnblogs.com/no7dw)）、热爱开源(见[个人github](https://github.com/no7dw))
   - 能快速带领团队走、能自己独立跑、能及时填坑
   - 英文读写顺畅
 
@@ -107,8 +107,6 @@
  - [RabbitMQ advance usage](https://github.com/no7dw/rabbitmq-demo/blob/master/advance.md)
  - [Haproxy config detail & log detail](https://docs.google.com/presentation/d/1iXsMbMgC0ikmZiP0hGnYaWVHIZouArwQ5p9_DJ_Je9U/edit#slide=id.g123cd1a7c3_0_41)
  - [如何写标准级别的linux shell](http://www.deng.io/2016/05/15/linux-shell-script/)
-
-注：以上link非及时更新
 
 
 ### 3年以前项目:
