@@ -1,4 +1,4 @@
-## no7dw CV
+## 邓维 CV
 
 ### Social:
  - Blog: [cnblogs.com/no7dw][1] [www.deng.io][2]
@@ -7,7 +7,7 @@
  - Mobile: MTg2ODA0OTMwMDEK
  - Github: [no7dw][3]
   ![commit图](http://7xk67t.com1.z0.glb.clouddn.com/commit.png)
-
+ - Birth: 1986 Graduate:广东工业大学 2009 
 
 ### Program Language: Node.JS,C++ ,Shell > Golang/Java/Python/VB/C#
 
@@ -23,9 +23,9 @@
     - 项目运作情况：50万用户,3.6亿资产,10亿交易额
     - 技术团队：15人。主技术栈：Nodejs,Python,Java,Mongodb
  - 2014 技术负责人 电商app－天气美搭app（根据天气推荐服饰搭配）
-   - 负责app后台开发,运营后台
-   - 项目运作情况：30万用户
-   -  技术团队：8人。主技术栈：Nodejs,Mongodb
+    - 负责app后台开发,运营后台
+    - 项目运作情况：30万用户
+    -  技术团队：8人。主技术栈：Nodejs,Mongodb
  - 2013 技术负责人 电商app－潮百搭app（女装导购）
     - 负责少量android,app后台开发,运营后台 
     - 项目运作情况：100万用户
@@ -46,6 +46,7 @@
 ### 优点
   - 技术热情，认真，主动学习，主动分享（见下方个人分享列表）， 坚持blog（见[两个](www.deng.io)[blog](www.cnblogs.com/no7dw)）、热爱开源(见[个人github](github.com/no7dw))
   - 能快速带领团队走、能自己独立跑、能及时填坑
+  - 英文读写顺畅
 
 ### 缺点
  - 性格不属强势，not firmly enough
@@ -76,7 +77,7 @@
 ### 开源项目：Node_Modules:
 
  - [lianlianpay][11]
- - [asset_cal][12] ,[ it's es6 version](https://github.com/no7dw/asset_cal/tree/es6)
+ - [asset_cal][12] ,[ and it's es6 version](https://github.com/no7dw/asset_cal/tree/es6)
 
 ### 开源项目：Pull Request:
 
@@ -101,6 +102,7 @@
  - Jira Intro
  - Agile Development
  - RabbitMQ
+ - Haproxy config detail & log detail
 
 注：以上link非及时更新
 
@@ -112,11 +114,13 @@
  - 2011 幼儿园,小学英语语音打分教学嵌入式应用，负责应用前后台(C++、Linux)
  - 2009 英语翻译教学桌面应用(VB/C#)
 
-
+### 公司经历:
+ - 2013至今 某互联网金融公司 技术负责人（前身互联网电商公司）
+ - 2009~2012 蓝鸽集团 软件工程师（英语教育行业全国领头羊）
 
   [1]: http://www.cnblogs.com/no7dw
-  [2]: www.deng.io
-  [3]: www.github.com/no7dw
+  [2]: http://www.deng.io
+  [3]: http://www.github.com/no7dw
   [4]: http://stackoverflow.com/users/2412549/no7dw?tab=profile
   [5]: https://github.com/no7dw/lianlianpay
   [6]: https://github.com/no7dw/cplusplus-learning
