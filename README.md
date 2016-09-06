@@ -92,6 +92,7 @@
  - [Jenkins CI & Unit Test](https://docs.google.com/presentation/d/1_VFfaBkQEkAaMzJwGlf_hhGO6qqL7ex_jQdVc4uT6CY/edit#slide=id.p)
  - [Security Status of our system](https://docs.google.com/presentation/d/1hmg83ArtCseaw_HP1VlLGN2Sn10iy0TabYn5XE36Yw4/edit#slide=id.g5ca66c4c1_010)
  - [Jsconf 2014 in hangzhou](https://docs.google.com/presentation/d/1afopKqsl6YjwFO15T0mIsRNPt1rbs39zibaQe2XNCb8/edit#slide=id.p)
+ - [phonegap 基础](https://docs.google.com/presentation/d/15BsAysxtBs0bmQUMFrYcpqPAobIGOxIJqgzcmBDynWY/edit#slide=id.p)
  - 使用Thenjs 缓解callback hell
  - [Grunt for backend](https://docs.google.com/presentation/d/1YuxXuR8nDLx3c4FqY3pC27qfIgViuJITd3nHnYuFmFU/edit#slide=id.g902209502_0_0)
  - [Backend development training](https://docs.google.com/presentation/d/1RRZ1yehGUv3Wh85Z9dctHqsXEYzJ0M7kMDB0uOOA6mU/edit#slide=id.p)
