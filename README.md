@@ -4,7 +4,7 @@
  - Blog: [cnblogs.com/no7dw][1] [www.deng.io][2]
  - Stackoverflow: [no7dw][4] 积分105
  - Mail: no7david#gmail.com
- - Mobile: MTg2ODA0OTMwMDEK
+ - Mobile: MTg2ODA0OTMwMDEK (暂时不打算找，你懂的加密算法)
  - Github: [no7dw][3]
   ![commit图](http://7xk67t.com1.z0.glb.clouddn.com/commit.png)
  - Birth: 1986 Graduate:广东工业大学 2009 
@@ -20,8 +20,8 @@
 ### 最近3年主要项目
  - 2015~now 技术负责人 某互联网金融理财产品（p2p基金/二级市场）A轮：
     - 负责架构,参与项目管理,难点解决,后台开发,运维,团队培训
-    - 项目运作情况：50万用户,3.6亿资产,10亿交易额
-    - 技术团队：15人。主技术栈：Nodejs,Python,Java,Redis,Mongodb
+    - 项目运作情况：70万用户,8亿资产,75亿交易额
+    - 技术团队：25人。主技术栈：Nodejs,Python,Java,Redis,Mongodb
  - 2014 技术负责人 电商－[天气美搭](http://app.mi.com/details?id=com.kalengo.weathermeida)app（根据天气推荐服饰搭配）
     - 负责app后台开发,管理后台
     - 项目运作情况：30万用户
@@ -50,7 +50,7 @@
 
 ### 缺点
  - 性格不属强势，not firmly enough
- - 简短汇报，~~主动汇报~~,不够细心~~留意下属~~,~~业务关心度不高~~
+ - 简短汇报，~~主动汇报~~,~~不够细心留意下属~~,~~业务关心度不高~~
 
 --- 
 ## 详细
