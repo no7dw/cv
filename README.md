@@ -11,10 +11,10 @@
     - 负责风控组件:OCR模块、短信内容分析、银行流水分析 (2人。主技术栈：Python,scikit-learn)
 - 2019~2020 技术负责人 某同公司(数字货币量化交易)
     - 负责架构、项目管理、策略 (2人。主技术栈：Python)
-- 2017~2019 技术负责人 某金融公司(贷款应用)
+- 2017~2019 技术负责人 某同公司(贷款应用)
     - 负责架构、项目管理、业务系统、风控系统 (7人。主技术栈：Nodejs,Python,MongoDB,Dremio)
     - 项目运作情况：盈利但项目终止(政策问题)
-- 2015~2017 技术负责人 某互联网金融理财产品：
+- 2015~2017 技术负责人 某互联网金融理财产品
     - 负责架构、项目管理,难点解决、后台开发、运维、团队培训(25人。主技术栈：Nodejs,Python,Java,Redis,MongoDB,Hive)
     - 项目运作情况：70万用户,8亿资产AUM,80亿交易额
 
@@ -24,13 +24,14 @@
 
 ### 部分有趣Side Projects：
 - [反偷拍App](https://a.app.qq.com/o/simple.jsp?pkgname=com.awang.checkcam)(2019 年)
-核心贡献者。自己的idea、自己掏钱买硬件研究，通过技术解决反偷拍，保护个人隐私。
+核心贡献者。自己的idea、自己掏钱买硬件研究，通过技术解决反偷拍，保护个人隐私。(有硬件版)
 - [敏感内容检测chrome插件 - javascript](https://github.com/no7dw/anti-snake-chrome-extension)（2016年）
 自己对某类图片敏感，某度网站偶然出现某类图片，检测内容才安全展示，解救自己。
 - [lianlianpay][11]/ [sails-mongo][13]
 
 ### 部分成绩/奖项/趣事
  - GeekPwn隐私安全之反偷拍挑战赛 (2019)
+ - MongoDB Hackathon (2019)
  - Blockchain Hackathon (6/12)[区块链征信](https://github.com/kaolalicai/blockchain-hackathon)(2018)
  - Speaker of MongoDB User Conf at Guangzhou & Shenzhen(2018)
  - 自己举办Hackathon(2016)
