@@ -36,11 +36,12 @@
  - Speaker of MongoDB User Conf at Guangzhou & Shenzhen(2018)
  - 自己举办Hackathon(2016)
  - 科研新人一等奖(2010)
- - big fan of Coldplay、钢琴爱好者 (till Now)
-
+ - big fan of Coldplay、钢琴爱好者 
+ 
 #### 部分在团队的技术分享: 
  技术相关分享：
 [RabbitMQ intro](https://github.com/no7dw/rabbitmq-demo/) / [RabbitMQ advance usage](https://github.com/no7dw/rabbitmq-demo/blob/master/advance.md)/ [Haproxy config detail & log detail](https://docs.google.com/presentation/d/1iXsMbMgC0ikmZiP0hGnYaWVHIZouArwQ5p9_DJ_Je9U/edit#slide=id.g123cd1a7c3_0_41)/ [如何写标准级别的linux shell](http://www.deng.io/2016/05/15/linux-shell-script/)/[Acceptance test][14]/ [Loopback.io intro][15]/ [Sencha Touch intro][16]/ [MongoDB Monitoring Service][17]/ [Golang intro](https://docs.google.com/presentation/d/1bQdstLrHHfc9AATmd-fa2UHZaI1rgxH9k04NQzr5Ry4/edit#slide=id.p)/ [Jenkins CI & Unit Test](https://docs.google.com/presentation/d/1_VFfaBkQEkAaMzJwGlf_hhGO6qqL7ex_jQdVc4uT6CY/edit#slide=id.p)/ [Security Status of our system](https://docs.google.com/presentation/d/1hmg83ArtCseaw_HP1VlLGN2Sn10iy0TabYn5XE36Yw4/edit#slide=id.g5ca66c4c1_010)/ [Jsconf 2014 in hangzhou](https://docs.google.com/presentation/d/1afopKqsl6YjwFO15T0mIsRNPt1rbs39zibaQe2XNCb8/edit#slide=id.p)/ [phonegap 基础](https://docs.google.com/presentation/d/15BsAysxtBs0bmQUMFrYcpqPAobIGOxIJqgzcmBDynWY/edit#slide=id.p)/ 使用Thenjs 缓解callback hell/ [Grunt for backend](https://docs.google.com/presentation/d/1YuxXuR8nDLx3c4FqY3pC27qfIgViuJITd3nHnYuFmFU/edit#slide=id.g902209502_0_0)/ [Backend development training](https://docs.google.com/presentation/d/1RRZ1yehGUv3Wh85Z9dctHqsXEYzJ0M7kMDB0uOOA6mU/edit#slide=id.p)/ [Design Pattern in Javascript](https://docs.google.com/presentation/d/1tuj5syAmwRkfX25bpLMmHPWFR0wLiBL4dSRhVfuNQtM/edit#slide=id.p)/[Docker intro](http://www.deng.io/2016/01/14/docker-common-error/) [101](http://www.deng.io/2016/01/14/docker-command/)
+
 工作方法相关分享：
 OKR intro/ [git workflow](https://docs.google.com/presentation/d/1MtG8Xak3XLnDHkZ_h83_OH-w-_oWmsXXt31rsjdSOMs/edit#slide=id.p)/ GTD intro/ Jira Intro/ [Agile Development](https://docs.google.com/presentation/d/14kvpRIj8V20BdJBIHLfo7R2YsEVd5rAacpk6x4WOwE4/edit#slide=id.p)
 
