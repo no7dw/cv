@@ -10,7 +10,7 @@
         - 整体正规化、系统化、盈利。    
         - 模型AUC从0.6-到0.7+,KS从0.2-到0.3+，多个特征IV从0.1-到0.2+
         - 带领团队实现风控组件化、解析重要数据、实现反欺诈;走向特征工程高效化、分布式计算
-- 2019~2020 技术负责人 某同公司(数字货币量化交易)
+- 2019~2020 技术负责人 某同公司(区块链数字货币量化交易)
     - 负责架构、项目管理、量化策略 (带3人。主技术栈：Python)
     - 项目业绩：VIP做市商，其中有策略15%+年化收益，但整体没有盈利
 - 2017~2019 技术负责人 某同公司(贷款系统)
@@ -22,7 +22,7 @@
 
 ### Pros&Cons
  - 有技术热情，认真，主动学习与分享， 坚持blog。能快速带领团队跑、能自己独立跑、能及时填坑。
- - 完成Deep Learning Specialization [所有Coursera认证](https://www.coursera.org/account/accomplishments/specialization/DQ3XU6D9VL4V)，包括:Neural Networks, Hyperparameter tuning, Structing ML Projects,CNN,Squence Models
+ - 完成Deep Learning Specialization [所有Coursera认证](https://www.coursera.org/account/accomplishments/specialization/DQ3XU6D9VL4V)，包括:Neural Networks, Hyperparameter tuning, Structuring ML Projects,CNN,Sequence Models
  - 英文听读写顺畅，正常沟通
  - 性格不属强势
 
